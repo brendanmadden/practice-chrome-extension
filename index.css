@@ -18,9 +18,20 @@ input {
   border-radius: 10px;
 }
 
-button {
+#input-btn {
   background-color: #2dc7ff;
   color: white;
+  font-weight: bold;
+  margin: 5px 0;
+  height: 40px;
+  width: 125px;
+  border: solid 2px #2dc7ff;
+  border-radius: 10px;
+}
+
+#delete-btn {
+  background-color: white;
+  color: #2dc7ff;
   font-weight: bold;
   margin: 5px 0;
   height: 40px;

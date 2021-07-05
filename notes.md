@@ -28,3 +28,15 @@ append()
 template strings/string literals = backticks - `
 
 created my first JSON object for deploying chrome extension
+
+learned about working with localStorage
+
+- localStorage.setItem("Key", "Value");
+- localStorage.getItem("Key");
+- localStorage.clear();
+
+* Key and Value need to be strings
+
+JSON.stringify() turn to string
+
+JSON.parse() - turn into not string
