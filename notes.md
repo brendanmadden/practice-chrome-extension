@@ -6,7 +6,7 @@ getElementbyID()
 
 .innerHTML
 
-* include and set the contents of an HTML element with JS
+- include and set the contents of an HTML element with JS
 
 addEventListener()
 
@@ -14,8 +14,8 @@ addEventListener()
 const inputBtn = document.getElementById("input-btn");
 
 inputBtn.addEventListener("click", function () {
-    myLeads.push(inputEl.value);
-    console.log(myLeads);
+  myLeads.push(inputEl.value);
+  console.log(myLeads);
 });
 ```
 
@@ -23,5 +23,8 @@ createElement()
 
 append()
 
-
 ### DOM manipulation has a COST
+
+template strings/string literals = backticks - `
+
+created my first JSON object for deploying chrome extension
