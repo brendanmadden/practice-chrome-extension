@@ -1,0 +1,28 @@
+/* freeCodeCamp JavaScript Tutorial
+Chrome Extension
+July 4, 2021 */
+
+
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+    border: solid 2px #c1aaec;
+    width: 100%;
+    height: 45px;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #c1aaec;
+    color: white;
+    font-weight: bold;
+    margin: 5px 0;
+    height: 40px;
+    width: 125px;
+    border: none;
+}
